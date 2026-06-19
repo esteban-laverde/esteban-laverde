@@ -46,7 +46,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/azuredevops&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=data:image%2Fsvg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE1IDMuNjIydjguNTEyTDExLjUgMTVsLTUuNDI1LTEuOTc1djEuOTU4TDMuMDA0IDEwLjk3bDguOTUxLjdWNC4wMDVMMTUgMy42MjJ6bS0yLjk4NC40MjhMNi45OTQgMXYyLjAwMUwyLjM4MiA0LjM1NiAxIDYuMTN2NC4wMjlsMS45NzguODczVjUuODY5bDkuMDM4LTEuODE4eiIvPjwvc3ZnPg%3D%3D)
 
 ---
 
