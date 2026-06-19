@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fabián 👋</h1>
+<h1 align="center">Hi, I'm Esteban Laverde 👋</h1>
 <h3 align="center">QA Automation Engineer · Full-Stack Testing</h3>
 
 <p align="center">
@@ -7,10 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fabian-solano-40203378">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:cacheater@gmail.com">
+    <a href="mailto:estebanlav@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
